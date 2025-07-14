@@ -2,7 +2,7 @@
 ## 🧩 Customer Satisfaction & Loyalty Analytics Dashboard
 
 📸 **Dashboard Preview:**  
-![Dashboard Screenshot]("C:\Users\ChipTek\Downloads\Customer Satisfaction & Loyalty Reviews.jpg") 
+![Dashboard Preview](./dashboard-preview.png)
 
 ---
 
